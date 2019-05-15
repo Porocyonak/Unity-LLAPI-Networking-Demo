@@ -1,6 +1,6 @@
 ![super choppy!](https://media.giphy.com/media/SvXUK3FIwoY60PY7us/giphy.gif)
 
-A demonstration of Unity's (old) LLAPI in the form of a basic Multiplayer videogame.
+A demonstration of Unity's LLAPI in the form of a basic Multiplayer Unity3D game.
 The game has a lobby system and a movement/position syncing system, in order to demonstrate how to send and recieve data using the LLAPI.
 
 **Run it yourself**
