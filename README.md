@@ -16,5 +16,5 @@ Hope this helps!
 
 
 
-__also, this is in no means a good way to network a game. most elements are hardcoded because it was quick and easy. 
-if you are new to networking, I highly reccomend doing more research into the fundamentals of game networking through writeups or books.__
+_also, this is in no means a good way to network a game. most elements are hardcoded because it was quick and easy. 
+if you are new to networking, I highly reccomend doing more research into the fundamentals of game networking through writeups or books._
